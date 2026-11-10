@@ -4000,7 +4000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-8" id="ppCFR4wyfgKFnKEML-hP">
-    <mxGraphModel dx="2632" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4240,11 +4240,23 @@
         <mxCell id="C3bEf8rMK0gEipp7DTiI-11" parent="C3bEf8rMK0gEipp7DTiI-9" style="whiteSpace=wrap;html=1;align=center;rounded=1;roundedPerimeter=1;" value="3c" vertex="1">
           <mxGeometry height="32.14285714285714" width="30" x="109" as="geometry" />
         </mxCell>
-        <mxCell id="C3bEf8rMK0gEipp7DTiI-12" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="-60" y="540" as="geometry" />
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-20" edge="1" parent="1" source="C3bEf8rMK0gEipp7DTiI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="C3bEf8rMK0gEipp7DTiI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-12" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;go over home page&lt;/div&gt;&lt;div&gt;very briefly menmtion the QR (open it), show recent activity,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- mention ease of access and show the merchants and products available to purchase for points&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="200" x="-101" y="540" as="geometry" />
         </mxCell>
         <mxCell id="C3bEf8rMK0gEipp7DTiI-14" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-18" edge="1" parent="1" source="C3bEf8rMK0gEipp7DTiI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="C3bEf8rMK0gEipp7DTiI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-19" parent="1" style="whiteSpace=wrap;html=1;" value="go to merchants page, click on one, view rewards benefits, promotions etc" vertex="1">
+          <mxGeometry height="110" width="210" x="-90" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-21" parent="1" style="whiteSpace=wrap;html=1;" value="go to activity" vertex="1">
+          <mxGeometry height="60" width="120" x="-60" y="880" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
