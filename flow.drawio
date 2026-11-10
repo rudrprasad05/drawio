@@ -4000,7 +4000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Page-8" id="ppCFR4wyfgKFnKEML-hP">
-    <mxGraphModel dx="1758" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4184,7 +4184,7 @@
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-13" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-10" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;transactions&lt;/div&gt;&lt;div&gt;- show the recent trasnaxtion that just occured&lt;/div&gt;&lt;div&gt;- mention this is merchant scoped unlike the superadmin&lt;/div&gt;&lt;div&gt;- clcik on one of them. show the transaxtiondetauls&lt;/div&gt;" vertex="1">
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-10" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;transactions&lt;/div&gt;&lt;div&gt;- show the recent trasnaxtion that just occured&lt;/div&gt;&lt;div&gt;- mention this is merchant scoped unlike the superadmin&lt;/div&gt;&lt;div&gt;- clcik on one of them. show the transaxtion detauls&lt;/div&gt;&lt;div&gt;- say it was a mistake. show reversal process&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="290" x="190" y="990" as="geometry" />
         </mxCell>
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-15" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-14">
@@ -4193,26 +4193,55 @@
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-12" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;award points&lt;/div&gt;&lt;div&gt;- show it as a manual method to award points to users in case of manul transactions&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="260" x="190" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-17" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-17" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-20">
+          <mxGeometry relative="1" x="-0.3546" as="geometry">
+            <mxPoint x="199.5" y="1437.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-14" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;redeem points&lt;/div&gt;&lt;div&gt;&amp;nbsp;- while most redeeming will be done in the POS, good to redeem manualy too&lt;/div&gt;&amp;nbsp;- show redeem product, similar to POS" vertex="1">
           <mxGeometry height="90" width="276" x="197" y="1260" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-21" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-16" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;customer&lt;/div&gt;&lt;div&gt;- click on one customer&lt;/div&gt;&lt;div&gt;&amp;nbsp;- show trans&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="276" x="199.5" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-24" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-20" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="SWITCH TO NEXT PERON" vertex="1">
-          <mxGeometry height="60" width="120" x="286" y="1500" as="geometry" />
+          <mxGeometry height="60" width="120" x="260" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-2" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="C3bEf8rMK0gEipp7DTiI-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-22" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;tour guid&lt;/div&gt;&lt;div&gt;- in case you forgot how to use the system, you can always click here&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="233" x="211.5" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-4" edge="1" parent="1" source="C3bEf8rMK0gEipp7DTiI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="C3bEf8rMK0gEipp7DTiI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-1" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;verifications&lt;/div&gt;&lt;div&gt;- we valie your securioty, thats why critical actions, such as the transaction reveral shown previosuly will require verification from other admins&lt;/div&gt;&lt;div&gt;- switch to other admin&lt;/div&gt;&lt;div&gt;- verify quickly&lt;/div&gt;&lt;div&gt;- go back to admin 1. show verifciation went throuh. switch to trsnactions and show&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="220" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-6" edge="1" parent="1" source="C3bEf8rMK0gEipp7DTiI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="C3bEf8rMK0gEipp7DTiI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;rewards&lt;/div&gt;&lt;div&gt;- breifly go over rewards and how itll help grab more customers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="84" width="260" x="240" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-8" edge="1" parent="1" source="C3bEf8rMK0gEipp7DTiI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="C3bEf8rMK0gEipp7DTiI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-5" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;promotions&lt;/div&gt;&lt;div&gt;- go over promotion creattion page&lt;/div&gt;&lt;div&gt;- mention things like highly configurable to client taste&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="233" y="1990" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-7" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;analytics&lt;/div&gt;&lt;div&gt;- the most important aspect of any system, the data&lt;/div&gt;&lt;div&gt;- show best performing products, best tiers, promotions etc&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="290" x="240" y="2110" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="90" width="139" x="-40" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-10" parent="C3bEf8rMK0gEipp7DTiI-9" style="whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacing=5;" value="Customer Dashbard" vertex="1">
+          <mxGeometry height="75" width="130" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="C3bEf8rMK0gEipp7DTiI-11" parent="C3bEf8rMK0gEipp7DTiI-9" style="whiteSpace=wrap;html=1;align=center;rounded=1;roundedPerimeter=1;" value="3c" vertex="1">
+          <mxGeometry height="32.14285714285714" width="30" x="109" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
